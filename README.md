@@ -1,11 +1,11 @@
 <p align="center">
     <img width="200" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Janith Sandaruwan</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Kalana Sandakelum</h1>
+<h3 align="center">A passionate full-stack developer from Sri Lanka | Undergraduate at University of Moratuwa </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=icetjanith&label=Profile%20views&color=0e75b6&style=flat" 
-alt="icetjanith" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanas210&label=Profile%20views&color=0e75b6&style=flat" alt="kalanas210" /> </p>
+
 
 - 🔭 I’m currently working on **ICET**
 
