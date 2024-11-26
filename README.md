@@ -4,25 +4,30 @@
 <h1 align="center">Hi 👋, I'm Kalana Sandakelum</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka | Undergraduate at University of Moratuwa </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanas210&label=Profile%20views&color=0e75b6&style=flat" alt="kalanas210" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalanas210&label=Profile%20views&color=0e75b6&style=flat" alt="kalanas210" /> </p>
 
 
-- 🔭 I’m currently working on **ICET**
+- 🌱 I’m currently learning **Java , Springboot , Angular ,React js , Node js , Express js , Next js**
 
-- 🌱 I’m currently learning **Springboot , Angular ,React js , Node js , Express js**
+- 💬 Ask me about **Java , Springboot , Angular ,React js** <br>
 
-- 💬 Ask me about **Springboot , Angular ,React js**
+📫 How to reach me **kalanasandakelum210@gmail.com**
+  <br>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kalanasandakelum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalanasandakelum" height="30" width="40" /></a>
+<a href="https://fb.com/61559175435939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61559175435939" height="30" width="40" /></a>
+</p> <br>
 <p align="left">
 </p>
 <br/>
 
-### Janith's GitHub Activity Graph
+### Kalana's GitHub Activity Graph
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=icetjanith&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icetjanith&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=kalanas210&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalanas210&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icetjanith&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=icetjanith&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalanas210&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kalanas210&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <h3 align="left">Languages and Tools:</h3>
