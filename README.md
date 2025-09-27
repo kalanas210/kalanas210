@@ -68,6 +68,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanas210&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalanas210&theme=tokyonight&hide_border=true&area=true&height=200" />
 </div>
 
 ---
