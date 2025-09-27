@@ -21,21 +21,16 @@
 
 ## 🚀 About Me
 
-```javascript
-const kalana = {
-  pronouns: "he" | "him",
-  code: ["Java", "JavaScript", "TypeScript", "Python"],
-  askMeAbout: ["Java", "Spring Boot", "Angular", "React", "Node.js"],
-  currentlyLearning: ["Next.js", "Express.js", "Advanced Spring Boot"],
-  funFact: "I turn coffee into code ☕️",
-  university: "University of Moratuwa",
-  location: "Sri Lanka 🇱🇰"
-};
-```
+- **Pronouns**: He/Him
+- **Languages**: Java, JavaScript, TypeScript, Python
+- **Ask me about**: Java, Spring Boot, Angular, React, Node.js
+- **Currently learning**: Next.js, Express.js, Advanced Spring Boot
+- **Fun fact**: I turn coffee into code ☕️
+- **University**: University of Moratuwa
+- **Location**: Sri Lanka 🇱🇰
 
 ## 🛠️ Tech Stack
 
-### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -46,24 +41,17 @@ const kalana = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -80,7 +68,6 @@ const kalana = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanas210&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalanas210&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
@@ -93,13 +80,6 @@ const kalana = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalanas210&theme=tokyonight&hide_border=true&area=true" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
