@@ -59,28 +59,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalanas210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanas210&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanas210&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalanas210&theme=tokyonight&hide_border=true&area=true&height=200" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalanas210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
----
-
 
 ## 🎯 Current Focus
 
