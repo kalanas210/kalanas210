@@ -100,6 +100,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kalanas210/kalanas210/output/snake.svg" alt="Snake animation" />
-</div>
