@@ -93,7 +93,7 @@ Thousands of concurrent users compete for limited inventory. ApexTick guarantees
 | :--- | :--- |
 | **Durdans LIMS** | Laboratory management system digitizing a hospital's clinical-lab pipeline end to end. |
 | **ICITR 2026** | Official website for the International Conference on Information Technology Research. |
-| **Smart Campus App** | Mobile companion for university students - timetables, dining, and transit in one place. |
+| **ANPR AI Parking** | Real-time ANPR smart-parking platform - YOLOv8 + Roboflow + OpenAI/EasyOCR license-plate recognition, a Node/React booking app with Stripe, and an ESP32 LED display, built for high-accuracy detection under real conditions. |
 
 ---
 
