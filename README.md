@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Software+Engineer+%2F+Full-Stack+Developer;Distributed+systems+%26+backend+correctness;I+build+fast%2C+accessible+web+experiences;Currently+building+ApexTick" alt="Software Engineer / Full-Stack Developer — distributed systems and backend correctness" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Software+Engineer+%2F+Full-Stack+Developer;Java+%26+Spring+Boot+Developer;Distributed+systems+%26+backend+correctness;I+build+scalable+microservices" alt="Software Engineer / Full-Stack Developer, Java and Spring Boot, distributed systems and scalable microservices" />
 
 ### Kalana Sandakelum
 
-**Undergraduate, Information Technology — University of Moratuwa** 🇱🇰
+**Undergraduate, Information Technology - University of Moratuwa** 🇱🇰
 
-<img src="https://img.shields.io/badge/Open%20to%20Software%20Engineering%20roles%20%E2%80%94%20mid--2026-2563EB?style=for-the-badge&logoColor=white" alt="Open to Software Engineering roles, mid-2026" />
+<img src="https://img.shields.io/badge/Open%20to%20Software%20Engineering%20roles%20--%202026-2563EB?style=for-the-badge&logoColor=white" alt="Open to Software Engineering roles, 2026" />
 
 <a href="https://github.com/kalanas210?tab=followers"><img src="https://img.shields.io/github/followers/kalanas210?label=Followers&style=social" alt="GitHub followers" /></a>
 &nbsp;
@@ -20,7 +20,7 @@
 
 **I build exceptional digital experiences with modern technologies.**
 
-Full-stack engineer focused on backend correctness and distributed systems, with an eye for motion, micro-interactions, and typography. I care that systems are provably correct under load — not just that they pass on the happy path.
+Full-stack engineer focused on backend correctness and distributed systems, with an eye for motion, micro-interactions, and typography. I care that systems are provably correct under load - not just that they pass on the happy path.
 
 </div>
 
@@ -40,20 +40,19 @@ Full-stack engineer focused on backend correctness and distributed systems, with
 
 ## 🧭 What I Bring
 
-- **Correctness under concurrency** — designed a ticketing system that guarantees exactly one winner per seat with **zero double-bookings**, validated by load testing rather than assumption.
-- **Distributed, event-driven backends** — atomic concurrency with no distributed locks, stateless JWT auth, and independent services communicating over a message broker.
-- **Full-stack delivery** — production-minded React / Next.js front ends backed by Spring Boot and Node.js services, containerized and migration-versioned.
-- **Throughput at scale** — sustained **~3,900 requests/sec** under k6 load while staying correct.
-
-> **Currently** building [ApexTick](https://github.com/kalanas210/apextick) · focused on distributed systems and event-driven backends · **ask me about** Java & Spring Boot, event-driven architecture, Redis, RabbitMQ, and JWT / OIDC auth.
+- **Java & Spring Boot engineer** - I design and build production-grade backends and REST APIs with Spring Boot, Spring Security, and Spring Data.
+- **Scalable microservices** - I architect event-driven, containerized microservices that scale horizontally and stay loosely coupled through message brokers like Kafka and RabbitMQ.
+- **Correct under extreme concurrency** - my systems hold up under contention: in a k6 load test, 5,000 concurrent requests fought over 200 seats and exactly one user won each - zero double-bookings at ~3,900 req/s.
+- **Real-world, team-delivered projects** - shipped full systems with real users and teams, like Durdans LIMS, a hospital clinical-lab management platform.
+- **Experienced, full-stack software engineer** - comfortable end to end, pairing solid backends with React, Next.js, and Angular front ends.
 
 ---
 
-## 🎯 Featured Project — ApexTick
+## 🎯 Featured Project - ApexTick
 
 > **A distributed, real-time ticket reservation system built to survive a high-contention flash sale.**
 
-Thousands of concurrent users compete for limited inventory. ApexTick guarantees that **exactly one person wins each seat — with zero double-booking** — and proves it with load testing rather than assuming it.
+Thousands of concurrent users compete for limited inventory. ApexTick guarantees that **exactly one person wins each seat - with zero double-booking** - and proves it with load testing rather than assuming it.
 
 <div align="center">
 
@@ -64,7 +63,7 @@ Thousands of concurrent users compete for limited inventory. ApexTick guarantees
 
 </div>
 
-**Validated under a k6 load test — correctness held under contention:**
+**Validated under a k6 load test - correctness held under contention:**
 
 | Metric | Result |
 | :--- | :--- |
@@ -75,10 +74,10 @@ Thousands of concurrent users compete for limited inventory. ApexTick guarantees
 
 **Architecture decisions worth defending**
 
-- **Atomic concurrency, no distributed locks** — winners are decided by a single row-level `UPDATE`, so contention is settled in the database without application-level or distributed locking.
-- **Event-driven microservices** — a Booking / Inventory service and an independent Notification service communicate asynchronously over a RabbitMQ topic exchange.
-- **Self-expiring inventory holds** — Redis TTL keys with keyspace notifications release abandoned seats automatically, with no cleanup cron.
-- **Stateless auth at scale** — Keycloak-issued JWTs (OAuth2 / OIDC) are validated independently across every containerized instance, with no shared session state.
+- **Atomic concurrency, no distributed locks** - winners are decided by a single row-level `UPDATE`, so contention is settled in the database without application-level or distributed locking.
+- **Event-driven microservices** - a Booking / Inventory service and an independent Notification service communicate asynchronously over a RabbitMQ topic exchange.
+- **Self-expiring inventory holds** - Redis TTL keys with keyspace notifications release abandoned seats automatically, with no cleanup cron.
+- **Stateless auth at scale** - Keycloak-issued JWTs (OAuth2 / OIDC) are validated independently across every containerized instance, with no shared session state.
 
 **Stack** &nbsp;`Java 21` · `Spring Boot` · `Next.js / React` · `PostgreSQL` (ACID source of truth) · `Redis` · `RabbitMQ` · `Keycloak` · `Docker / Compose` · `Liquibase` · `k6`
 <br />
@@ -94,7 +93,7 @@ Thousands of concurrent users compete for limited inventory. ApexTick guarantees
 | :--- | :--- |
 | **Durdans LIMS** | Laboratory management system digitizing a hospital's clinical-lab pipeline end to end. |
 | **ICITR 2026** | Official website for the International Conference on Information Technology Research. |
-| **Smart Campus App** | Mobile companion for university students — timetables, dining, and transit in one place. |
+| **Smart Campus App** | Mobile companion for university students - timetables, dining, and transit in one place. |
 
 ---
 
